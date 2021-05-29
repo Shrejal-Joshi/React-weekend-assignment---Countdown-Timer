@@ -16,6 +16,7 @@ const App = () => {
     {
       inputTime = 0;
     }
+    setTimeCount(inputTime);
   }
   useEffect (() =>
   {
